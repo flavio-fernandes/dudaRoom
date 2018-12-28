@@ -1,2 +1,9 @@
 # dudaRoom
-Arduino EasyVR based project for controlling power relay via voice
+
+An Arduino based project that uses the Easy-VR based sheild and an AC power relay
+
+Reference links:
+
+- [EasyVR-Arduino](https://github.com/RoboTech-srl/EasyVR-Arduino)
+- [VeeaR](https://www.veear.eu/downloads/)
+
