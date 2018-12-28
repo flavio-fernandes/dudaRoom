@@ -1,6 +1,6 @@
 # dudaRoom
 
-An Arduino based project that uses the Easy-VR based sheild and an AC power relay
+An Arduino based project that uses the Easy-VR based shield and an AC power relay
 
 Reference links:
 
